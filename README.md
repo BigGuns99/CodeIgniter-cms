@@ -1,4 +1,4 @@
-easy-cms
+codeIgniter cms
 ========
 
 A CodeIgniter based cms. 
