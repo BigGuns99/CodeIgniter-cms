@@ -1,0 +1,14 @@
+.slider-thumb {
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
+}
+.block{  
+    margin: 5px;
+    text-align: center; 
+    font-size: 2em;
+}
+
+.block a:hover{
+    text-decoration: none;
+}
